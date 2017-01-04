@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">News List</string>
+    <!-- No internet connection string [CHAR LIMIT=NONE] -->
+    <string name="no_internet">"No internet connection"</string>
+    <!-- No authors found string [CHAR LIMIT=NONE] -->
+    <string name="no_authors">No Author Listed</string>
+    <!-- No Results Found string [CHAR LIMIT=NONE] -->
+    <string name="empty_view">"No News Story Results Found."</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Search Settings</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_relevance_value</string>
+
+    <!-- Label for order-by search relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Search Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">time</string>
+
+    <!-- Search field and button text [CHAR LIMIT=20] -->
+    <string name="search_editText">Search For News Stories...</string>
+    <string name="search_button">Search</string>
+    <string name="enter_search">No Search Entered, Please Enter Search Above</string>
+
+
+</resources>
